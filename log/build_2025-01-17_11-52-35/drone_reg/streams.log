@@ -1,0 +1,30 @@
+[0.366s] Invoking command in '/home/illarion/auto_drone/src/drone_reg': PYTHONPATH=/home/illarion/auto_drone/build/drone_reg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/drone_reg build --build-base /home/illarion/auto_drone/build/drone_reg/build install --record /home/illarion/auto_drone/build/drone_reg/install.log --single-version-externally-managed install_data
+[0.496s] running egg_info
+[0.496s] writing ../../build/drone_reg/drone_reg.egg-info/PKG-INFO
+[0.505s] writing dependency_links to ../../build/drone_reg/drone_reg.egg-info/dependency_links.txt
+[0.505s] writing entry points to ../../build/drone_reg/drone_reg.egg-info/entry_points.txt
+[0.505s] writing requirements to ../../build/drone_reg/drone_reg.egg-info/requires.txt
+[0.505s] writing top-level names to ../../build/drone_reg/drone_reg.egg-info/top_level.txt
+[0.506s] reading manifest file '../../build/drone_reg/drone_reg.egg-info/SOURCES.txt'
+[0.506s] adding license file 'LICENSE'
+[0.507s] writing manifest file '../../build/drone_reg/drone_reg.egg-info/SOURCES.txt'
+[0.507s] running build
+[0.507s] running build_py
+[0.507s] copying drone_reg/drone_system_2.py -> /home/illarion/auto_drone/build/drone_reg/build/lib/drone_reg
+[0.507s] copying drone_reg/drone_system_0.py -> /home/illarion/auto_drone/build/drone_reg/build/lib/drone_reg
+[0.507s] copying drone_reg/drone_system_1.py -> /home/illarion/auto_drone/build/drone_reg/build/lib/drone_reg
+[0.508s] running install
+[0.508s] running install_lib
+[0.508s] copying /home/illarion/auto_drone/build/drone_reg/build/lib/drone_reg/drone_system_2.py -> /home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages/drone_reg
+[0.508s] copying /home/illarion/auto_drone/build/drone_reg/build/lib/drone_reg/drone_system_0.py -> /home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages/drone_reg
+[0.508s] copying /home/illarion/auto_drone/build/drone_reg/build/lib/drone_reg/drone_system_1.py -> /home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages/drone_reg
+[0.509s] byte-compiling /home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages/drone_reg/drone_system_2.py to drone_system_2.cpython-310.pyc
+[0.509s] byte-compiling /home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages/drone_reg/drone_system_0.py to drone_system_0.cpython-310.pyc
+[0.509s] byte-compiling /home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages/drone_reg/drone_system_1.py to drone_system_1.cpython-310.pyc
+[0.510s] running install_data
+[0.510s] running install_egg_info
+[0.511s] removing '/home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages/drone_reg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.511s] Copying ../../build/drone_reg/drone_reg.egg-info to /home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages/drone_reg-0.0.0-py3.10.egg-info
+[0.512s] running install_scripts
+[0.521s] writing list of installed files to '/home/illarion/auto_drone/build/drone_reg/install.log'
+[0.533s] Invoked command in '/home/illarion/auto_drone/src/drone_reg' returned '0': PYTHONPATH=/home/illarion/auto_drone/build/drone_reg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/illarion/auto_drone/install/drone_reg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/drone_reg build --build-base /home/illarion/auto_drone/build/drone_reg/build install --record /home/illarion/auto_drone/build/drone_reg/install.log --single-version-externally-managed install_data
