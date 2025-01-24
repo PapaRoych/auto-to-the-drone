@@ -1,13 +1,4 @@
-from  mavsdk import System 
-import asyncio 
+a =  2 
+b =  2
 
-
-
-
-
-
-
-class ikk():
-
-print(eded)
-
+print(sum(2+2))
